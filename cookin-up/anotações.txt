@@ -1,0 +1,16 @@
+- Comando inicial para criar o projeto vue (sim apenas para o TypeScript)
+'''
+npm create vue@3.7.3
+'''
+
+- Para instalar as dependencias do package.json
+'''
+npm install
+'''
+
+- Isso executa o Vite, o vite é uma ferramenta que o Vue utiliza para conseguir rodar um servidor local.
+'''
+npm run dev
+'''
+
+# Acredtio que esses são os 3 comando bases pra iniciar o projeto.
